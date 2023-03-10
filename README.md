@@ -4,4 +4,4 @@ Used Antiviruses:
 HitmanPro
 AdwCleaner
 Rkill
-
+Works on win10 maybe win8.1
